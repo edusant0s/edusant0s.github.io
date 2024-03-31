@@ -142,7 +142,9 @@
   #projects h1 {
   color: #36B1BF;
   }
-  
+  .p22{
+	list-style-type:none;  
+  }
   
   #projects {
   padding-top: 1rem;
